@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white"/>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrans9248&show_icons=true&theme=buefy) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrans9248&show_icons=true&theme=buefy)
 
 
  
