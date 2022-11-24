@@ -38,4 +38,13 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjrans9248)](https://github.com/anuraghazra/github-readme-stats)
 
+## Daiily Todo List
+
+스터디팀 Todo Notion: [Team notion]
+
+[Team notion]: https://www.notion.so/2f4b53dd0e8447d2afab8d0558b880f6
+
+개인 Todo Notion: [Notion Link]
+
+[Notion Link]: https://www.notion.so/11-4-11-21-11-27-ce59fed72bfb43d2ae02abb0a17ae4b1
  
