@@ -2,11 +2,6 @@
 
 - I like create something for people' comfortable
 
-
-<a href="https://velog.io/@tjrans9248" target="_black"> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/seanyang8922@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/> 
-  <a href="https://www.notion.so/a8f7e4ebd1484fb69edcdd4915bec7f2" target="_black"> <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=plastic&logo=Notion&logoColor=white"/> </a>
-
 <!--
 **tjrans9248/tjrans9248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +32,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjrans9248)](https://github.com/anuraghazra/github-readme-stats)
+
+<p> My Information </p>
+<a href="https://velog.io/@tjrans9248" target="_black"> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/seanyang8922@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/> 
+  <a href="https://www.notion.so/a8f7e4ebd1484fb69edcdd4915bec7f2" target="_black"> <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=plastic&logo=Notion&logoColor=white"/> </a>
+
 
 ## Daiily Todo List
 
